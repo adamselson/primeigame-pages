@@ -1,2 +1,14 @@
 # primeigame-pages
-HTML page archive and documentation
+
+HTML 页面维护仓库
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
